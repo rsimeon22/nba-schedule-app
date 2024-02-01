@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the NBA Calendar App! This application is designed to provide users with a convenient way to stay updated on NBA game schedules, team matchups, and scores. The app is built using XAML for the user interface and C++ for the underlying logic.
+Welcome to my NBA calendar app, called "HoopsManager"! This application is designed to provide users with a convenient way to stay updated on NBA game schedules, team matchups, and scores. The app is built using XAML for the user interface and C++ for the underlying logic.
 
 ## Features
 
